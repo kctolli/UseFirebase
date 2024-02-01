@@ -1,7 +1,7 @@
 {
   "name": "@kctolli/usefirebase",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Custom Firebase React Helper",
   "main": "index.ts",
   "repository": {
