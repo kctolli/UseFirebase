@@ -1,14 +1,11 @@
 {
-  "name": "@kctolli-open-source/usefirebase",
+  "name": "@kctolli/usefirebase",
   "version": "1.0.0",
   "description": "Custom Firebase React Helper",
   "main": "index.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kctolli-open-source/usefirebase.git"
+    "url": "git+https://github.com/kctolli/usefirebase.git"
   },
   "keywords": [
     "React",
@@ -19,12 +16,12 @@
   "author": "kctolli",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/kctolli-open-source/usefirebase/issues"
+    "url": "https://github.com/kctolli/usefirebase/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/kctolli-open-source/usefirebase#readme",
+  "homepage": "https://github.com/kctolli/usefirebase#readme",
   "dependencies": {
     "@types/react": "^18.2.12",
     "firebase": "^9.22.2",
